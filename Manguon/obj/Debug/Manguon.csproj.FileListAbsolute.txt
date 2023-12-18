@@ -1,0 +1,7 @@
+D:\Chapter1\Manguon\bin\Debug\Manguon.exe.config
+D:\Chapter1\Manguon\bin\Debug\Manguon.exe
+D:\Chapter1\Manguon\bin\Debug\Manguon.pdb
+D:\Chapter1\Manguon\obj\Debug\Manguon.csproj.AssemblyReference.cache
+D:\Chapter1\Manguon\obj\Debug\Manguon.csproj.CoreCompileInputs.cache
+D:\Chapter1\Manguon\obj\Debug\Manguon.exe
+D:\Chapter1\Manguon\obj\Debug\Manguon.pdb
